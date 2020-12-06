@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="tab_page1">Unit Selection</string>
+    <string name="tab_page2">Conversion</string>
+    <string name="tab_page3">History</string>
+    <string name="familyLabel">Choose the Unit Family</string>
+    <string name="initialUnitLabel">Initial Unit</string>
+    <string name="convertToLabel">Convert To Unit</string>
+    <string name="inputLabel">Input:</string>
+    <string name="resultLabel">Result:</string>
+</resources>

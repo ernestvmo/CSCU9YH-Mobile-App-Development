@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unitFamilies">
+        <item>Weight</item>
+        <item>Length</item>
+        <item>Speed</item>
+        <item>Volume</item>
+    </string-array>
+    <string-array name="Weight">
+        <item>Select unit</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Stone</item>
+    </string-array>
+    <string-array name="Length">
+        <item>Select unit</item>
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Centimeter</item>
+        <item>Millimeter</item>
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Mile</item>
+    </string-array>
+    <string-array name="Speed">
+        <item>Select unit</item>
+        <item>KpH</item>
+        <item>MpH</item>
+    </string-array>
+    <string-array name="Volume">
+        <item>Select unit</item>
+        <item>Liter</item>
+        <item>Milliliter</item>
+        <item>Gallon</item>
+        <item>Pint</item>
+        <item>Cup</item>
+        <item>Tablespoon</item>
+        <item>Teaspoon</item>
+    </string-array>
+    <dimen name="distanceLabel">30dp</dimen>
+    <dimen name="distanceSpinner">50dp</dimen>
+</resources>
